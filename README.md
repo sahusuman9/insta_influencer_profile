@@ -2,12 +2,6 @@
 
 This is a full-stack web application that displays an Instagram influencer's profile, analytics, recent posts, and reels with basic analysis.
 
-## Assumptions
-- Hardcoded for @therock (public profile).
-- Scraping uses instaloader for public data only.
-- Analysis is simplified (dummy logic for tags/vibe).
-- No authentication or production optimizations.
-- Frontend uses Tailwind CSS for styling.
 
 ## Setup Instructions
 
