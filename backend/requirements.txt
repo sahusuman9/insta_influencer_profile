@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+instaloader
+opencv-python
+numpy
+pydantic
